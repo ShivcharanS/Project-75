@@ -47,8 +47,8 @@ const SwitchNavigator = createSwitchNavigator({
   //LoginScreen : LoginScreen
   //TabNavigator : TabNavigator
 
-  //LoginScreen : LoginScreen,
-  //TabNavigator : TabNavigator
+  LoginScreen : LoginScreen,
+  TabNavigator : TabNavigator
 
   
   //TabNavigator : TabNavigator,
